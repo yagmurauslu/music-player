@@ -194,7 +194,6 @@
   
   .playlist-song {
     display: flex;
-    height: 55px;
     justify-content: space-between;
     align-items: center;
     padding: 5px;
@@ -253,8 +252,13 @@
   
   .playlist-song-delete {
     padding: 0;
-    width: 20px;
+    width: px;
     height: 20px;
+    float: right;
+    align-self: end;
+    margin-top: -32px;
+    scale:.8
+
   }
   
   .playlist-song-delete,

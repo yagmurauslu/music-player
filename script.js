@@ -41,7 +41,7 @@ const allSongs = [
      title:"It's Snowing Like It's the End of the World",
      artist:"Phiec Krobak",
      duration:"11:50",
-     src:"Its Snowing Like Its the End of the World.mp3"
+     src:"Its-Snowing-Like-Its-the-End-of-the-World.ogg"
     },
     {
      id:5,

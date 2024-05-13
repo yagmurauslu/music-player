@@ -122,6 +122,9 @@ const renderSongs = (array) => {
 .join("");
 playlistSongs.innerHTML = songsHTML;
 };
+
+playButton.addEventListener("click",()=>{})
+
  // songs in alphabetical order
 const sortSongs = () => {
     userData?.songs.sort((a,b) => {

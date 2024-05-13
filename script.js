@@ -13,7 +13,7 @@ const allSongs = [
      title:"The Night We Met",
      artist:"Lord Huron",
      duration:"3:28",
-     src:"https://www.youtube.com/watch?v=KtlgYxa6BMU"
+     src:"The-Night-We-Met.ogg"
     },
     {
      id:1,
@@ -27,14 +27,14 @@ const allSongs = [
      title:"To Build A Home",
      artist:"The Cinematic Orchestra",
      duration:"6:11",
-     src:"https://www.youtube.com/watch?v=OAYuMygPkbI"
+     src:"To-Build-A-Home.ogg"
     },
     {
      id:3,
      title:"Remembrance",
      artist:"Balmorhea",
      duration:"5:59",
-     src:"https://www.youtube.com/watch?v=C-wu2VcYNCA"
+     src:"Remembrance.ogg"
     },
     {
      id:4,
@@ -48,35 +48,35 @@ const allSongs = [
      title:"No Surprises",
      artist:"Radiohead",
      duration:"3:47",
-     src:"https://www.youtube.com/watch?v=u5CVsCnxyXg"
+     src:"No-Surprises.ogg"
     },
     {
      id:6,
      title:"Space Song",
      artist:"Beach House",
      duration:"5:20",
-     src:"https://www.youtube.com/watch?v=RBtlPT23PTM"
+     src:"Space-Song.ogg"
     },
     {
      id:7,
      title:"Slow Dancing In The Dark",
      artist:"JOJI",
      duration:"3:29",
-     src:"https://www.youtube.com/watch?v=LUXu4aTnK7E"
+     src:"slow-dancing.ogg"
     },
     {
      id:8,
      title:"Too Sweet",
      artist:"Hozier",
      duration:"4:11",
-     src:"https://www.youtube.com/watch?v=aezstCBHOPQ"
+     src:"Too-Sweet.ogg"
     },
     {
      id:9,
      title:"Yellow",
      artist:"Coldplay",
      duration:"4:32",
-     src:"https://www.youtube.com/watch?v=yKNxeF4KMsY"
+     src:"Yellow.ogg"
     }
 ];
 

@@ -20,7 +20,7 @@ const allSongs = [
      title:"Je Te Laisserai Des Mots",
      artist:"Patrick Watson",
      duration:"2:40",
-     src:"Je te laisserai des mots.ogg"
+     src:"Je-te.ogg"
     },
     {
      id:2,

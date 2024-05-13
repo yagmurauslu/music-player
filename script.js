@@ -77,6 +77,27 @@ const allSongs = [
      artist:"Coldplay",
      duration:"4:32",
      src:"Yellow.ogg"
+    },
+    {
+      id:10,
+      title:"Paranoid",
+      artist:"Black Sabbath",
+      duration:"2:48",
+      src:"Paranoid.ogg"
+    },
+    {
+      id:11,
+      title:"Delusions of Saviour",
+      artist:"Slayer",
+      duration:"1:55",
+      src:"Delusions-of-Saviour.ogg"
+    },
+    {
+      id:12,
+      title:"Duality",
+      artist:"Slipknot",
+      duration:"3:34",
+      src:"Duality.ogg"
     }
 ];
 

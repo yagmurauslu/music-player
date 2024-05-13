@@ -103,7 +103,12 @@ const allSongs = [
 
 // audio API
 const audio = new Audio();
-soundEffect.autoplay = true;
+useEffect(() => {
+  window.addEventListener('touchstart', () => {
+    document.getElementById('audio').muted = false
+    document.getElementById('audio').play()
+  })
+});
 //users will be able to shuffle and delete songs
 let userData = {
  songs : [...allSongs],

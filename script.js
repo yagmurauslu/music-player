@@ -103,6 +103,7 @@ const allSongs = [
 
 // audio API
 const audio = new Audio();
+soundEffect.autoplay = true;
 //users will be able to shuffle and delete songs
 let userData = {
  songs : [...allSongs],

@@ -178,6 +178,8 @@ playButton.addEventListener("click",()=>{
 
 pauseButton.addEventListener("click",pauseSong);
 
+nextButton.addEventListener("click", playNextSong);
+
 // songs in alphabetical order
 const sortSongs = () => {
     userData?.songs.sort((a,b) => {

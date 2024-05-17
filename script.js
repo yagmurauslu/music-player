@@ -134,7 +134,13 @@ const pauseSong = () => {
   audio.pause();
 };
 
-const playNextSong = () => {}
+const playNextSong = () => {
+  if (userData?.currentSong === null) {
+    playSong(userData?.songs[0].id);
+  }else{
+    const currentSongIndex = getCurrentSongIndex();
+  }
+};
 
 
 const renderSongs = (array) => {
